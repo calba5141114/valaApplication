@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+
+    <gresource prefix="/io/github/calba5141114/valaApp/css">
+        <file alias="style.css" compressed="true">css/style.css</file>
+    </gresource>
+
+    <gresource prefix="/io/github/calba5141114/valaApp/images">
+        <file alias="io.github.calba5141114.valaApp.svg" compressed="true" preprocess="xml-stripblanks">images/io.github.calba5141114.valaApp.svg</file>
+        <file alias="16-io.github.calba5141114.valaApp.svg" compressed="true" preprocess="xml-stripblanks">images/icons/16/io.github.calba5141114.valaApp.svg</file>
+        <file alias="24-io.github.calba5141114.valaApp.svg" compressed="true" preprocess="xml-stripblanks">images/icons/24/io.github.calba5141114.valaApp.svg</file>
+        <file alias="32-io.github.calba5141114.valaApp.svg" compressed="true" preprocess="xml-stripblanks">images/icons/32/io.github.calba5141114.valaApp.svg</file>
+        <file alias="48-io.github.calba5141114.valaApp.svg" compressed="true" preprocess="xml-stripblanks">images/icons/48/io.github.calba5141114.valaApp.svg</file>
+        <file alias="64-io.github.calba5141114.valaApp.svg" compressed="true" preprocess="xml-stripblanks">images/icons/64/io.github.calba5141114.valaApp.svg</file>
+        <file alias="128-io.github.calba5141114.valaApp.svg" compressed="true" preprocess="xml-stripblanks">images/icons/128/io.github.calba5141114.valaApp.svg</file>
+    </gresource>
+</gresources>

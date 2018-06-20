@@ -1,0 +1,7 @@
+build/*
+debian/build/*
+debian/io.github.calba5141114.valaApp.debhelper.log
+debian/io.github.calba5141114.valaApp.substvars
+debian/io.github.calba5141114.valaApp/
+debian/debhelper-build-stamp
+debian/files

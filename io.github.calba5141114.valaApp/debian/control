@@ -1,0 +1,15 @@
+Source: io.github.calba5141114.valaApp
+Section: x11
+Priority: extra
+Maintainer: Carlos Alba <soradev4@gmail.com>
+Build-Depends: meson,
+               valac,
+               debhelper,
+               libgranite-dev,
+               libgtk-3-dev
+
+Standards-Version: 3.9.3
+Package: io.github.calba5141114.valaApp
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: A test app in vala

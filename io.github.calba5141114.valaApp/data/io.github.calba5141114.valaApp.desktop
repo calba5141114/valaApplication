@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=valaApplicationProject
+Comment=A test app in vala
+Icon=io.github.calba5141114.valaApp
+Exec=io.github.calba5141114.valaApp
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;
+Keywords=app;vala;
